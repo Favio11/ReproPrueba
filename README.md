@@ -11,6 +11,6 @@
      }
     }
  
-<center>
+<p align="center">
    ![Animacion](animacion.gif)
-  </center>
+  </p>
