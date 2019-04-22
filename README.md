@@ -10,6 +10,7 @@
 	  print("Hola Mundo")
      }
     }
-   <center>
+ 
+<center>
    ![Animacion](animacion.gif)
-   </center>
+  </center>
