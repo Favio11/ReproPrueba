@@ -12,3 +12,4 @@
     }
 
    ![Animacion](animacion.gif)
+   </center>
